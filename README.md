@@ -8,6 +8,11 @@ Este projeto tem como objetivo analisar dados de acidentes de trabalho e gerar i
 - SQL
 - PgAdmin
 
+- ## 🧠 Uso de SQL
+- Criação da base de dados
+- Inserção de dados simulados
+- Consultas para análise de indicadores
+
 ## 📊 Análises realizadas
 - Total de acidentes
 - Percentual de acidentes graves
@@ -15,10 +20,17 @@ Este projeto tem como objetivo analisar dados de acidentes de trabalho e gerar i
 - Acidentes por setor, turno e tipo
 - Tendência de acidentes ao longo do tempo
 
-## 💡 Principais insights
+- ## 📊 Indicadores (KPIs)
+- Total de acidentes
+- % de acidentes graves
+- Dias sem acidentes
+- % de uso de EPI
+
+## 💡 Insights
 - A não utilização de EPI está associada a maior proporção de acidentes graves
-- Alguns setores concentram maior número de ocorrências
-- A análise temporal permite identificar períodos críticos
+- Setores operacionais concentram maior número de ocorrências
+- Turnos específicos apresentam maior incidência de acidentes
+- A análise temporal permite identificar padrões e possíveis períodos críticos
 
 ## 📸 Dashboard
 
