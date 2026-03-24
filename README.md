@@ -22,7 +22,7 @@ Este projeto tem como objetivo analisar dados de acidentes de trabalho e gerar i
 
 ## 📸 Dashboard
 
-![Dashboard](imagens/dashboard.png)
+![Dashboard](imagens/DashboardInicial.jpg)
 
 ## 📂 Base de dados
 Dados simulados para fins de estudo.
